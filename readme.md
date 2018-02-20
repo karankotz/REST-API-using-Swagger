@@ -66,13 +66,13 @@ Example result of the above call:
 
 ## keyval.yaml
 
-* https://github.com/karankotz/REST-API-using-Swagger/blob/master/swagger/Cloudmesh/keyval.yaml
+* https://github.com/cloudmesh-community/hid-sp18-412/blob/master/swagger/Cloudmesh/keyval.yaml
 
 ## default_controller.py
 
-* https://github.com/karankotz/REST-API-using-Swagger/blob/master/swagger/Cloudmesh/keyvaluestore2/server/keyvaluestore/flaskConnexion/swagger_server/controllers/default_controller.py
+* https://github.com/cloudmesh-community/hid-sp18-412/blob/master/swagger/Cloudmesh/keyvaluestore2/server/keyvaluestore/flaskConnexion/swagger_server/controllers/default_controller.py
 
 ## keyval_stub.py
 
-* https://github.com/karankotz/REST-API-using-Swagger/blob/master/swagger/Cloudmesh/keyvaluestore2/server/keyvaluestore/flaskConnexion/swagger_server/controllers/keyval_stub.py
+* https://github.com/cloudmesh-community/hid-sp18-412/blob/master/swagger/Cloudmesh/keyvaluestore2/server/keyvaluestore/flaskConnexion/swagger_server/controllers/keyval_stub.py
 
